@@ -6,7 +6,7 @@ load_dotenv(".env")
 
 
 class Config((object)):
-    API_ID = int(getenv("API_ID", "6435225")) #optional
+    API_ID = int(getenv("API_ID", "")) #optional
     API_HASH = getenv("API_HASH", "") #optional
     SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
     OWNER_ID = int(getenv("OWNER_ID"))
@@ -17,7 +17,7 @@ class Config((object)):
     PM_LOGGER = getenv("PM_LOGGER")
     BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
     GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-    REPO_URL = getenv("REPO_URL", "https://github.com/hitokizzy/Geez-Pyro")
+    REPO_URL = getenv("REPO_URL", "https://github.com/lord-idoq1/Neaa")
     HEROKU_API_KEY = getenv("HEROKU_API_KEY")
     HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
     BRANCH = getenv("BRANCH", "main") #don't change
