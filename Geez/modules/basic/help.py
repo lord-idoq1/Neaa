@@ -93,7 +93,7 @@ async def module_helper(client: Client, message: Message):
         for x in split_list(sorted(CMD_HELP.keys()), 2):
             ac.add_row([x[0], x[1] if len(x) >= 2 else None])
         await edit_or_reply(
-            message, f"```{str(ac)}```\n• @GeezSupport >< @ramsupportt •"
+            message, f"```{str(ac)}```\n• @NothingWibusoft >< @IdoganzStore •"
         )
         await message.reply(
             f"**Usage**:`{cmds}help broadcast` **untuk melihat detail modul**"
