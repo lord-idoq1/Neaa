@@ -38,7 +38,7 @@
         "HEROKU_API_KEY": {
             "description": "Heroku Api Key",
             "required": true,
-            "value": "."
+            "value": "2fbcc43e-95b3-454f-92b8-697f52c54f32"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP name",
