@@ -18,7 +18,7 @@
         "OPENAI_API": {
             "description": "Jika ingin menggunakan openai, isi openai-api-key",
             "required": false,
-            "value": ""
+            "value": "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"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @geezramrobot pm and type /id",
