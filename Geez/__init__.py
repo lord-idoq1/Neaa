@@ -83,13 +83,13 @@ if (
 if API_ID:
    API_ID = API_ID
 else:
-   API_ID = ""
+   API_ID = "23891807"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
    LOGGER(__name__).warning("WARNING: MEMULAI BOT TANPA API HASH dan API ID")  
-   API_HASH = ""
+   API_HASH = "d1d5a5706f945e7a20296213ab12b148"
 
 if not BOT_TOKEN:
    LOGGER(__name__).error("WARNING: BOT TOKEN TIDAK DITEMUKAN, SHUTDOWN BOT")
