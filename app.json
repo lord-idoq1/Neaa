@@ -13,7 +13,7 @@
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://Botmusic:U4EuBsZ8tJMBya4amongodb@cluster0.wlwhub6.mongodb.net/?retryWrites=true&w=majority"
         },
         "OPENAI_API": {
             "description": "Jika ingin menggunakan openai, isi openai-api-key",
