@@ -23,12 +23,12 @@
         "OWNER_ID": {
             "description": "Fill there your I'd go to @geezramrobot pm and type /id",
             "required": true,
-            "value": "6219600804"
+            "value": "6246077481"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": "6142007914:AAG8-2YsXX_A5H4nX7SeRvWxkmzpygHP2-U"
+            "value": "6166759505:AAHZsOl_EUbPRn_hZLtYBm12zsEZClslxS0"
         },
         "BOTLOG_CHATID": {
             "description": "fill with your Publik LOG Group",
