@@ -33,7 +33,7 @@
         "BOTLOG_CHATID": {
             "description": "fill with your Publik LOG Group",
             "required": false,
-            "value": "-1001466971927"
+            "value": "-100808693460"
         },
         "HEROKU_API_KEY": {
             "description": "Heroku Api Key",
