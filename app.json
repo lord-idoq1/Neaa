@@ -28,7 +28,7 @@
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": "6166759505:AAHZsOl_EUbPRn_hZLtYBm12zsEZClslxS0"
+            "value": "6299729107:AAHUyYBSm-efV9LHmP9aE-fv0JPq69DIf-U"
         },
         "BOTLOG_CHATID": {
             "description": "fill with your Publik LOG Group",
